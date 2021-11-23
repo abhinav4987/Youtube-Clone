@@ -63,9 +63,3 @@ Youtube video for a run through of the project.
 
 [youtube-clone@youtube](https://github.com/matiassingers/awesome-readme)
 
-
-## Tech Stack
-- [React.js](https://reactjs.org/) - HTML enhanced for web apps!
-- [Material UI](https://material-ui.com/) - React components for faster and easier web development!
-- [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework
-- [React Redux](https://react-redux.js.org/) - A predictable state container for JavaScript applications
